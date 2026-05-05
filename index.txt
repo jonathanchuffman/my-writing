@@ -1,2 +1,2 @@
-Find_me_in_the_ghost_light.txt
-Outline.txt
+documents/Find_me_in_the_ghost_light.txt
+documents/Outline.txt
